@@ -6,6 +6,7 @@
 - ```Cd ..```  Up one directory
 - ```clear``` Clears Directory
 - ```mkdir``` - makes a directory
+- ```touch <file name>``` makes files 
 
 
 # Git Commands
@@ -17,3 +18,5 @@
 - ```Git remote -v``` shows origin of URL if repository is linked
 - ```Git add .```  pushes to Git hub
 - ```git commit -m <Message>``` create a message for that specific version of your project
+- ```git checkout <branch name>``` Creates a new branch
+- ```git merge``` Merges branch into main
